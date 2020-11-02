@@ -10,6 +10,6 @@ public class AppEnv {
         }
         public static String getDevHomeUrl(){return Dev + "/nav/home";}
         public static String getDevTaskPage(){return Dev + "/nav/all-tasks";}
-        public static String getDevImportantTaskPage(){return Dev + "nav/important-tasks";}
+        public static String getDevImportantTaskPage(){return Dev + "/nav/important-tasks";}
 
 }
